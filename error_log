@@ -1,0 +1,60 @@
+[22-Feb-2017 07:59:53 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 07:59:55 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:01 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:07 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:10 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:12 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:16 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:00:18 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:49 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:50 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:51 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:52 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:53 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:54 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:54 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:19:58 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[22-Feb-2017 08:20:00 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 07:53:24 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 07:53:34 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 07:54:05 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 07:54:22 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 07:54:46 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[28-Feb-2017 16:35:09 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:10 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:11 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:13 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:13 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:14 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:14 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:18 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:35:20 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[28-Feb-2017 16:37:49 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[01-Mar-2017 04:23:15 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/material/controllers/material.php on line 48
+[01-Mar-2017 05:31:27 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:33 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:36 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:36 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:37 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:38 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:38 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:39 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:40 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:41 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:31:46 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[01-Mar-2017 05:32:14 UTC] PHP Fatal error:  Call to undefined method Mdl_content::get_countries() in /home/u3701495/public_html/demo/application/modules/chapter/controllers/chapter.php on line 49
+[10-Mar-2017 14:52:50 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[10-Mar-2017 14:52:52 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[10-Mar-2017 14:52:53 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[10-Mar-2017 14:52:54 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[10-Mar-2017 14:52:59 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[10-Mar-2017 14:53:10 UTC] PHP Fatal error:  Call to undefined method Mdl_content::hapus_test() in /home/u3701495/public_html/demo/application/modules/test/controllers/test.php on line 66
+[26-Mar-2017 04:10:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (11/30/-0001) at position 5 (/): Unexpected character' in /home/u3701495/public_html/demo/application/modules/test/models/mdl_content.php:124
+Stack trace:
+#0 /home/u3701495/public_html/demo/application/modules/test/models/mdl_content.php(124): DateTime->__construct('11/30/-0001')
+#1 /home/u3701495/public_html/demo/application/modules/test/controllers/test.php(155): Mdl_content->edit_test('15')
+#2 [internal function]: Test->edit_test('save')
+#3 /home/u3701495/public_html/demo/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/u3701495/public_html/demo/index.php(202): require_once('/home/u3701495/...')
+#5 {main}
+  thrown in /home/u3701495/public_html/demo/application/modules/test/models/mdl_content.php on line 124
